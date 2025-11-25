@@ -1,0 +1,5 @@
+{
+  "name": "FinPre AI",
+  "description": "A professional financial presentation generator powered by Gemini, designed to create structured 45-minute detailed reports.",
+  "requestFramePermissions": []
+}
